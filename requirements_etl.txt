@@ -1,0 +1,2 @@
+pytest
+git+https://github.com/vasilis-mourtakos/pydata_etl_pipelines.git@main#egg=etl_pipelines
